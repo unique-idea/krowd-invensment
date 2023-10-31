@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526397080002",
+    "firebase_url": "https://fun-fund-7b641-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fun-fund-7b641",
+    "storage_bucket": "fun-fund-7b641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526397080002:android:bd02a948d67e334433165b",
+        "android_client_info": {
+          "package_name": "com.example.krowd_invesment_footer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526397080002-pmbt7kj2l6p65vf4c1eohgfoucjnf9am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krowd_invesment_footer",
+            "certificate_hash": "016db4d23c38686e98c85feee8ffd4a63a05f7ad"
+          }
+        },
+        {
+          "client_id": "526397080002-ahl5f56pbqrkl70khi0aju3bfl9h2top.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ntqVfzEkD1bjkjGuVfq5bwLfFMaYz9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526397080002-ahl5f56pbqrkl70khi0aju3bfl9h2top.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526397080002-tc2gibeqtd4oahc10sajv861ic3lk3o2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.krowdInvesmentFooter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
